@@ -2,7 +2,7 @@
 using namespace std;
 
 void print(int a[],int n,int i){
-    cout<<"µÚ"<<i+1<<"ÌË£º";
+    cout<<"ç¬¬"<<i+1<<"è¶Ÿï¼š";
     for(int j=0;j<n;j++){
         cout<<a[j]<<" ";
     }
@@ -25,7 +25,7 @@ void BubbleSort(int a[],int n){
 
 int main(){
     int a[8] = {49,38,65,97,76,13,27,49};
-    cout<<"³õÊ¼Öµ£º";
+    cout<<"åˆå§‹å€¼ï¼š";
     for(int j=0;j<8;++j){
         cout<<a[j]<<" ";
     }
