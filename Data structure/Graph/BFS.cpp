@@ -14,3 +14,4 @@ typedef struct AMGraph
 	int arcs[MVNum][MVNum];      //邻接矩阵
 	int vexnum, arcnum;          //当前的顶点数和边数
 }AMGraph;
+
