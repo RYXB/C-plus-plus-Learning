@@ -32,7 +32,7 @@ link *initLink1(){
       return p;
 }
 void display1(link *p) {
-    link* temp = p;//将temp指针重新指向头结点
+    link *temp = p;//将temp指针重新指向头结点
     //只要temp指针指向的结点的next不是Null，就执行输出语句。
     while (temp) {
         printf("%d ", temp->elem);
