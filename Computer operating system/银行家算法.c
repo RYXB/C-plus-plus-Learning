@@ -1,4 +1,3 @@
-
 /*
 Name: 银行家算法
 Author: Deep Baldha (CandyZack)
